@@ -1,4 +1,13 @@
+# Hi there, I'm Shivam Verma <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## I'm a Dedicated Student & Tech Enthusiast 👨🏻‍🎓
+
+- 👨‍💻 I’m currently working on projects involving **Machine Learning, Deep Learning, and NLP**, focusing on building advanced neural network architectures and intelligent predictive models.
+- 📚 I’m currently exploring new ML libraries while refining my skills in **Software Engineering documentation** (like crafting detailed SRS reports and UML diagrams).
+- 💪🏼 Future Goals: Build impactful AI solutions, master system optimization, and focus on continuously improving myself by tackling complex technical challenges.
+- ⚡ Fun fact: I spend a good chunk of my free time tweaking my gaming laptop for maximum performance, or planning the next hill station getaway with my friends! 💻🏔️
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-verma-b4876a237/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SV2004MARCH27@GMAIL.COM) 
 
